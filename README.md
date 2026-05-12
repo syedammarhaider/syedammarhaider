@@ -1,212 +1,51 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0d1117&height=240&section=header&text=Syed%20Ammar%20Haider&fontSize=58&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20UI%2FUX%20Craftsman%20%E2%9A%A1&descAlignY=58&descSize=16&descColor=ffffff"/>
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=🚀+Building+Intelligent+Systems+%26+Scalable+Products;🤖+LangChain+%7C+Gemini+%7C+FastAPI+%7C+Multi-Channel+AI;⚡+React+%7C+Laravel+%7C+AWS+%7C+MySQL+%7C+Tailwind;🌐+Turning+Complex+Ideas+Into+Elegant+Solutions)](https://git.io/typing-svg)
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/syedammarhaider">
-    <img src="https://komarev.com/ghpvc/?username=syedammarhaider&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/syedammarhaider?tab=followers">
-    <img src="https://img.shields.io/github/followers/syedammarhaider?style=for-the-badge&color=6AD3F7&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/syedammarhaider">
-    <img src="https://img.shields.io/github/stars/syedammarhaider?style=for-the-badge&color=FFD700&labelColor=0d1117&label=TOTAL+STARS" alt="Stars"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💼_Open_For-Freelance_&_Full--Time-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Status"/>
-  <img src="https://img.shields.io/badge/🌍_Available-Worldwide_Remote-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Remote"/>
-</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,1a1a3e,6AD3F7&height=280&section=header&text=Syed%20Ammar%20Haider&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect%20%7C%20UI%2FUX%20Craftsman&descAlignY=62&descSize=18&descColor=6AD3F7" alt="header"/>
+  
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=820&height=80&lines=🚀+Building+Intelligent+Systems+%26+Scalable+Products;🤖+LangChain+%7C+LLM+%7C+FastAPI+%7C+Multi-Channel+AI;⚡+React+%7C+Laravel+%7C+AWS+%7C+MySQL+%7C+Tailwind;🌐+Turning+Complex+Ideas+Into+Elegant+Solutions)](https://git.io/typing-svg)
+  
+  <br/><br/>
+  
+  <p align="center">
+    <a href="https://github.com/syedammarhaider">
+      <img src="https://komarev.com/ghpvc/?username=syedammarhaider&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS"/>
+    </a>
+    <a href="https://github.com/syedammarhaider?tab=followers">
+      <img src="https://img.shields.io/github/followers/syedammarhaider?style=for-the-badge&color=6AD3F7&label=FOLLOWERS&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://github.com/syedammarhaider">
+      <img src="https://img.shields.io/github/stars/syedammarhaider?style=for-the-badge&color=FFD700&label=TOTAL+STARS&logo=star&logoColor=white"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/💼_Open_For-Freelance_&_Full--Time-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+    <img src="https://img.shields.io/badge/🌍_Available-Worldwide_Remote-00D9FF?style=for-the-badge&labelColor=0d1117" alt="Remote"/>
+  </p>
 </div>
 
 ---
-
 <br/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
 <img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 <br/>
 
 ## 🧑‍💻 About Me
-
 ```yaml
 👤 Name     : Syed Ammar Haider
 📍 Location : Faisalabad, Pakistan 🇵🇰
 💼 Role     : Full Stack Developer & AI Engineer
 🏢 Company  : DS Technologies Pvt Ltd (Intern)
 🎯 Focus    : AI Systems · SaaS · Cloud · UI/UX
-🛠️ Stack    : Laravel · PHP· FastAPI · Tailwind
-🤖 AI Tech  : LangChain · Gemini · Agentic AI
-🔬 Research : ResearchGate — Published Author
+🛠️ Stack    : Laravel · FastAPI · Tailwind · React
+🤖 AI Tech  : LangChain · LLM · Agentic AI
+🔬 Research : Published Author on ResearchGate
 ✨ Status   : Open to Opportunities
-```
-
-</td>
-<td width="50%" valign="top">
-
-<br/><br/>
-
-### 🎯 Current Focus
-
-- 🔭 Building **Production-Grade AI Systems**
-- 🤖 Exploring **Agentic AI Architectures**
-- ☁️ Mastering **AWS Cloud Infrastructure**
-- 🛠️ Crafting **Scalable SaaS Platforms**
-- 📚 Contributing to **Open Source**
-
-### ⚡ Quick Wins
-
-- ✅ **ARIA**: Multi-channel AI agent (WhatsApp/Slack/Web)
-- ✅ **VendoMart**: Full-stack e-commerce platform
-- ✅ **BlogSphere**: Modern content publishing system
-- ✅ **AI Scraper**: Intelligent data extraction engine
-- ✅ **Portfolio**: Responsive personal portfolio website
-- ✅ **Todo App**: Laravel + MySQL CRUD application
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/syed-ammar-haider-61136b27b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:syedammar496539@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@ourlifeourules">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>&nbsp;&nbsp;
-<a href="https://instagram.com/ammar-sigma1">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.researchgate.net/">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> ARIA — Automated Requirement & Interaction Agent
-
-### *AI-Powered Multi-Channel Communication & Task Management System*
-
-<img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge&logo=statuspage&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/AI_Powered-LangChain_+_Gemini-blueviolet?style=for-the-badge&logo=robot&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Core Architecture
-
-```yaml
-🧠 AI Engine:
-   • LangChain Framework
-   • Google Gemini LLM
-   • Conversational Memory
-   • Multi-turn Dialogue
-
-📡 Communication Channels:
-   • WhatsApp (Meta Cloud API)
-   • Slack API Integration
-   • Web Portal (PHP + Tailwind)
-   • Real-time Sync
-
-⚡ Performance Metrics:
-   • <10s AI Response Time
-   • <3s Webhook Sync
-   • 16 Validated Test Cases
-   • 24/7 Autonomous Operation
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Full Tech Stack
-
-```yaml
-🖥️ Frontend:
-   • React.js — component-based SPA
-   • Tailwind CSS — responsive design
-   • JavaScript (ES6+) — interactions
-   • HTML5 / CSS3 — structure & style
-
-⚙️ Backend:
-   • Laravel (PHP) — REST API & MVC
-   • FastAPI (Python) — AI microservice
-   • Eloquent ORM — MySQL layer
-   • Laravel Sanctum — JWT auth
-
-🗄️ Database & Cloud:
-   • MySQL — full data persistence
-   • AWS EC2 — server deployment
-   • AWS S3 — file & asset storage
-   • AWS RDS — managed database
-
-🔌 Integrations:
-   • Twilio / WhatsApp Cloud API
-   • Slack API · Trello API
-   • Resend API (HTML emails)
-   • n8n (workflow automation)
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ### 🎨 Key Features & Accomplishments
 
